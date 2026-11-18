@@ -30,8 +30,5 @@ Desarrolladora especializada en **C# y Angular**, con experiencia en aplicacione
 | [📚 Libreria](https://github.com/Vicky5-5/Libreria) | TypeScript | Gestión de librería |
 | [🍎 Fruteria](https://github.com/Vicky5-5/Fruteria) | TypeScript | App de gestión de frutería |
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicky5-5&show_icons=true&theme=default&hide_border=true)
 
 
